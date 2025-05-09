@@ -34,9 +34,15 @@
 
 ---
 
-### 🧩 GitHub Contributions Graph
+### GitHub Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danisan15&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danisan15/danisan15/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danisan15/danisan15/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danisan15/danisan15/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -45,15 +51,6 @@
 <p align="center">
   <a href="mailto:daniel.santaella1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/daniel-santaella-a79787211/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danisan15/danisan15/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danisan15/danisan15/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danisan15/danisan15/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 ---
