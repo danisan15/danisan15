@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danisan15&show_icons=true&theme=radical&hide_rank=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danisan15&show_icons=true&theme=radical&hide_rank=true&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danisan15&theme=radical" alt="GitHub streak" />
 </p>
 
